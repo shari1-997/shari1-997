@@ -2,75 +2,80 @@
 
 # Hi 👋, I'm Shaheryar Khan
 
-### Data Analyst 📊 | Turning messy data into meaningful insights & smarter decisions
-
-**Excel • Power BI • SQL • Python • Data Cleaning • Dashboards • Data Visualization**
+### Data Analyst 📊 | I turn data into decisions and dashboards into insights.
 
 <p>
-  <a href="mailto:shari.designer97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/shari1-997"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=shari1-997&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p>
+  <a href="mailto:shari.designer97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/shari1-997"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=shari1-997&label=Profile%20Views&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Data Analyst** focused on transforming raw and messy datasets into clear, useful insights.
+I'm a **Data Analyst** who enjoys turning raw, messy data into **clear insights, interactive dashboards, and better business decisions**.
 
-I enjoy working across the full data-analysis process — from **cleaning and organizing data** to **building dashboards, analyzing trends, and communicating findings visually**.
+My approach is simple: understand the data, clean it properly, find the story behind the numbers, and present the results in a way that people can actually use.
 
 > **I don't just work with data — I make it speak. 📈**
 
----
+### 🔎 What I Focus On
 
-## 🛠️ Skills & Tools
-
-| Category | Tools |
-|---|---|
-| **Data Analysis** | Excel, Power BI, SQL |
-| **Databases** | MySQL |
-| **Programming** | Python |
-| **Visualization** | Power BI, Excel Dashboards |
-| **Data Preparation** | Data Cleaning, Transformation, Validation |
-| **Version Control** | Git, GitHub |
-| **Design** | Adobe Illustrator, Adobe Photoshop |
+- 🧹 **Data Cleaning & Preparation** — making inconsistent data reliable and analysis-ready
+- 📊 **Dashboard Development** — building KPI-focused dashboards in Excel and Power BI
+- 🔍 **Data Analysis** — uncovering trends, patterns, and performance insights
+- 🗄️ **SQL** — querying, filtering, joining, and analyzing relational data
+- 🐍 **Python** — developing skills for analysis and automation
+- 💡 **Business Intelligence** — turning numbers into practical, actionable insights
 
 ---
 
-## 📊 What I Work On
+## 🧰 Tech Stack
 
-- 🧹 **Data Cleaning & Preparation** — turning inconsistent raw data into analysis-ready datasets
-- 📈 **Dashboard Development** — creating interactive dashboards and KPI reports
-- 🔎 **Data Analysis** — finding patterns, trends, and actionable insights
-- 🗄️ **SQL Analysis** — querying and working with relational data
-- 🐍 **Python** — developing my skills in data analysis and automation
-- 💡 **Business Insights** — translating numbers into information that supports better decisions
-
----
-
-## 🌱 Currently Learning
-
-**Python for Data Analysis & Automation**
-
-Continuously improving my skills in data analysis, visualization, and analytics workflows.
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-## 📂 Featured Portfolio Projects
+## 📌 Featured Projects
 
-### 📊 E-commerce Sales & Performance Dashboard
-Interactive Excel dashboard built from raw data, featuring **data cleaning, KPI analysis, PivotTables, profitability metrics, and business insights**.
+### 🛒 E-commerce Sales & Performance Dashboard
 
-🔗 [View Project](https://github.com/shari1-997/Ecommerce-Sales-Performance-Dashboard)
+**Excel • Data Cleaning • PivotTables • KPIs • Profitability Analysis**
+
+An end-to-end Excel analytics project built from raw e-commerce data. The project covers data cleaning, transformation, KPI development, sales analysis, profitability metrics, and an interactive dashboard.
+
+**Key focus:** Revenue • Net Sales • Cost • Profit • Profit Margin • Product & Customer Analysis
+
+🔗 **[View Project →](https://github.com/shari1-997/Ecommerce-Sales-Performance-Dashboard)**
+
+---
 
 ### 👥 Employee Analytics Dashboard
-Interactive Excel dashboard featuring **KPIs, salary analysis, department and city breakdowns, hiring trends, heatmaps, and employee data analysis**.
 
-🔗 [View Project](https://github.com/shari1-997/employee-analytics-dashboard-excel)
+**Excel • KPIs • Salary Analysis • Hiring Trends • Data Visualization**
+
+An interactive employee analytics dashboard designed to explore workforce performance through KPIs, salary analysis, department and city breakdowns, hiring trends, and visual reporting.
+
+🔗 **[View Project →](https://github.com/shari1-997/employee-analytics-dashboard-excel)**
 
 ---
 
@@ -78,19 +83,31 @@ Interactive Excel dashboard featuring **KPIs, salary analysis, department and ci
 
 <div align="center">
 
-**Raw Data** → **Cleaning** → **Transformation** → **Analysis** → **Visualization** → **Insights**
+### Raw Data → Cleaning → Transformation → Analysis → Visualization → Insights
 
 </div>
 
+I build projects around the complete analytics workflow rather than focusing only on the final dashboard.
+
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently Learning
+
+🐍 **Python for Data Analysis & Automation**
+
+I'm continuously strengthening my Python skills while expanding my knowledge of analytics, visualization, automation, and business intelligence.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shari1-997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shaheryar's GitHub Stats" />
+I use GitHub to document my learning, share portfolio projects, and continuously improve my data-analysis skills.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shari1-997&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://img.shields.io/github/followers/shari1-997?label=Followers&style=flat" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/shari1-997?label=Total%20Stars&style=flat" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/commit-activity/y/shari1-997/shari1-997?label=Profile%20Activity&style=flat" alt="Profile Activity" />
 
 </div>
 
@@ -98,9 +115,11 @@ Interactive Excel dashboard featuring **KPIs, salary analysis, department and ci
 
 ## 🤝 Let's Connect
 
-- 📧 **Email:** shari.designer97@gmail.com
-- 💻 **GitHub:** [shari1-997](https://github.com/shari1-997)
-- 📄 **Resume:** [View my experience](https://1drv.ms/b/c/af2c5b27416c24d1/IQAEgixaEO4eS50s8oO2GHtpAc9hyV_fX2LSCXsppJBLcLo)
+<p>
+  📧 <strong>Email:</strong> <a href="mailto:shari.designer97@gmail.com">shari.designer97@gmail.com</a><br>
+  💻 <strong>GitHub:</strong> <a href="https://github.com/shari1-997">github.com/shari1-997</a><br>
+  📄 <strong>Resume:</strong> <a href="https://1drv.ms/b/c/af2c5b27416c24d1/IQAEgixaEO4eS50s8oO2GHtpAc9hyV_fX2LSCXsppJBLcLo">View my experience</a>
+</p>
 
 ---
 
