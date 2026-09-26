@@ -69,6 +69,18 @@ An end-to-end Excel analytics project built from raw e-commerce data. The projec
 
 ---
 
+### 📦 Inventory & Stock Management Dashboard
+
+**Excel • Data Cleaning • Inventory Analysis • PivotTables • KPIs • Dashboard**
+
+An end-to-end Excel inventory analytics project covering transaction cleaning, stock movement, inventory value, supplier analysis, warehouse distribution, KPI reporting, and business insights.
+
+**Key focus:** Current Stock • Inventory Value • Purchases • Sales • Returns • Supplier Analysis • Stock Status
+
+🔗 **[View Project →](https://github.com/shari1-997/Inventory-Stock-Management-Dashboard)**
+
+---
+
 ### 👥 Employee Analytics Dashboard
 
 **Excel • KPIs • Salary Analysis • Hiring Trends • Data Visualization**
