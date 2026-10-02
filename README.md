@@ -16,8 +16,6 @@
   <a href="https://github.com/shari1-997"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=shari1-997&label=Profile%20Views&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
@@ -81,6 +79,18 @@ An end-to-end Excel inventory analytics project covering transaction cleaning, s
 
 ---
 
+### 💰 Finance & Expense Analysis Dashboard
+
+**Excel • Financial Analysis • Data Cleaning • PivotTables • KPIs • Dashboard**
+
+An end-to-end Excel finance analytics project covering budget performance, revenue and expense analysis, KPI reporting, PivotTables, dashboard visualization, and business insights.
+
+**Key focus:** Budget vs Actual • Revenue • Expenses • Net Amount • Budget Status • Department Analysis • Business Segment Analysis
+
+🔗 **[View Project →](https://github.com/shari1-997/Finance-Expense-Analysis-Dashboard)**
+
+---
+
 ### 👥 Employee Analytics Dashboard
 
 **Excel • KPIs • Salary Analysis • Hiring Trends • Data Visualization**
@@ -116,10 +126,6 @@ I'm continuously strengthening my Python skills while expanding my knowledge of 
 <div align="center">
 
 I use GitHub to document my learning, share portfolio projects, and continuously improve my data-analysis skills.
-
-<img src="https://img.shields.io/github/followers/shari1-997?label=Followers&style=flat" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/shari1-997?label=Total%20Stars&style=flat" alt="GitHub Stars" />
-<img src="https://img.shields.io/github/commit-activity/y/shari1-997/shari1-997?label=Profile%20Activity&style=flat" alt="Profile Activity" />
 
 </div>
 
