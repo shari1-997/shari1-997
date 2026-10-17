@@ -55,6 +55,18 @@ My approach is simple: understand the data, clean it properly, find the story be
 
 ## 📌 Featured Projects
 
+### 📊 Sales & Customer Analytics Dashboard
+
+**Power BI • Power Query • Data Modeling • DAX • Interactive Dashboards**
+
+An end-to-end Power BI project analyzing sales performance, profitability, product categories, customer segments, and regional results across four interactive report pages.
+
+**Key focus:** Total Sales • Total Profit • Orders • Customer Insights • Product Performance • Regional Analysis • KPI Reporting
+
+🖼️ **[View Dashboard Preview](https://github.com/shari1-997/PowerBI-Sales-Customer-Analytics#dashboard-preview)** · 🔗 **[View Project →](https://github.com/shari1-997/PowerBI-Sales-Customer-Analytics)**
+
+---
+
 ### 🛒 E-commerce Sales & Performance Dashboard
 
 **Excel • Data Cleaning • PivotTables • KPIs • Profitability Analysis**
