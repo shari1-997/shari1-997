@@ -2,18 +2,21 @@
 
 # Hi 👋, I'm Shaheryar Khan
 
-### Data Analyst 📊 | I turn data into decisions and dashboards into insights.
+### Data Analyst | Excel • Power BI • Data Cleaning • Business Insights
+
+I turn raw data into clear, useful insights through data preparation, analysis, and interactive dashboards.
 
 <p>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power%20Query-Data%20Preparation-217346?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 <p>
+  <a href="https://1drv.ms/b/c/af2c5b27416c24d1/IQBTQsd2p7AWRY_YTX5JybfeAUdSSgoh60JpDTYbwGjiWYg"><img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="View my resume" /></a>
   <a href="mailto:shari.designer97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/shari1-997"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/shari1-997"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub portfolio" /></a>
 </p>
 
 </div>
@@ -22,32 +25,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst** who enjoys turning raw, messy data into **clear insights, interactive dashboards, and better business decisions**.
+I'm a data analyst focused on turning raw data into reliable reporting, interactive dashboards, and practical business insights. I enjoy working through the full analytics process: cleaning data, organizing it for analysis, developing KPIs, identifying patterns, and presenting findings clearly.
 
-My approach is simple: understand the data, clean it properly, find the story behind the numbers, and present the results in a way that people can actually use.
+### What I work on
 
-> **I don't just work with data — I make it speak. 📈**
+- **Data cleaning and preparation** — handling duplicates, missing values, inconsistent text, and data types.
+- **Dashboard development** — building KPI-focused dashboards in Power BI and Excel.
+- **Data analysis** — exploring trends, performance, costs, and operational results.
+- **Power Query and DAX** — transforming data and developing analytical measures.
+- **Business reporting** — documenting findings and translating analysis into recommendations.
 
-### 🔎 What I Focus On
-
-- 🧹 **Data Cleaning & Preparation** — making inconsistent data reliable and analysis-ready
-- 📊 **Dashboard Development** — building KPI-focused dashboards in Excel and Power BI
-- 🔍 **Data Analysis** — uncovering trends, patterns, and performance insights
-- 🗄️ **SQL** — querying, filtering, joining, and analyzing relational data
-- 🐍 **Python** — developing skills for analysis and automation
-- 💡 **Business Intelligence** — turning numbers into practical, actionable insights
-
----
-
-## 🧰 Tech Stack
+## 🧰 Tools & Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-Measure%20Development-5A4FCF?style=flat-square" alt="DAX" />
+  <img src="https://img.shields.io/badge/Power%20Query-ETL-217346?style=flat-square" alt="Power Query" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
@@ -55,108 +50,116 @@ My approach is simple: understand the data, clean it properly, find the story be
 
 ## 📌 Featured Projects
 
-### 📊 Sales & Customer Analytics Dashboard
+Each project includes a **medium-sized dashboard preview**. Select a preview or project link to explore the full repository, documentation, and available files.
 
-**Power BI • Power Query • Data Modeling • DAX • Interactive Dashboards**
+### 1. 📦 Supply Chain & Logistics Analytics Dashboard
 
-An end-to-end Power BI project analyzing sales performance, profitability, product categories, customer segments, and regional results across four interactive report pages.
+**Power BI · Power Query · DAX · Data Modeling · Logistics Analytics**
 
-**Key focus:** Total Sales • Total Profit • Orders • Customer Insights • Product Performance • Regional Analysis • KPI Reporting
+Analyzes order activity, on-time delivery, supplier lead times, order status, and shipping costs. Includes four report pages, interactive slicers, documented data cleaning, and business recommendations.
 
-🖼️ **[View Dashboard Preview](https://github.com/shari1-997/PowerBI-Sales-Customer-Analytics#dashboard-preview)** · 🔗 **[View Project →](https://github.com/shari1-997/PowerBI-Sales-Customer-Analytics)**
+<p align="center">
+  <a href="https://github.com/shari1-997/Supply-Chain-Logistics-Analytics">
+    <img src="https://raw.githubusercontent.com/shari1-997/Supply-Chain-Logistics-Analytics/main/Dashboard_ScreenShot/Overview.jpg" width="600" alt="Supply Chain and Logistics Analytics Dashboard — Overview" />
+  </a>
+</p>
+
+**Explore:** [Project repository](https://github.com/shari1-997/Supply-Chain-Logistics-Analytics) · [Business insights](https://github.com/shari1-997/Supply-Chain-Logistics-Analytics/blob/main/business_insights.md) · [Project documentation](https://github.com/shari1-997/Supply-Chain-Logistics-Analytics/blob/main/project_documentation.md)
+
+### 2. 📊 Sales & Customer Analytics Dashboard
+
+**Power BI · Power Query · Data Modeling · DAX**
+
+Explores sales performance, profitability, product categories, customer segments, and regional results across interactive report pages.
+
+<p align="center">
+  <a href="https://github.com/shari1-997/PowerBI-Sales-Customer-Analytics">
+    <img src="https://raw.githubusercontent.com/shari1-997/PowerBI-Sales-Customer-Analytics/main/Dashboard_Screenshots/Executive%20Overview.png" width="600" alt="Sales and Customer Analytics Dashboard — Executive Overview" />
+  </a>
+</p>
+
+**Explore:** [Project repository](https://github.com/shari1-997/PowerBI-Sales-Customer-Analytics) · [Dashboard preview](https://github.com/shari1-997/PowerBI-Sales-Customer-Analytics#dashboard-preview)
+
+### 3. 🛒 E-commerce Sales & Performance Dashboard
+
+**Excel · Data Cleaning · PivotTables · KPIs · Profitability Analysis**
+
+Covers e-commerce sales performance, revenue, costs, profit, profit margins, and product and customer analysis.
+
+<p align="center">
+  <a href="https://github.com/shari1-997/Ecommerce-Sales-Performance-Dashboard">
+    <img src="https://raw.githubusercontent.com/shari1-997/Ecommerce-Sales-Performance-Dashboard/main/dashboard-preview.png" width="600" alt="E-commerce Sales and Performance Dashboard" />
+  </a>
+</p>
+
+**Explore:** [Project repository](https://github.com/shari1-997/Ecommerce-Sales-Performance-Dashboard)
+
+### 4. 📦 Inventory & Stock Management Dashboard
+
+**Excel · Inventory Analysis · PivotTables · KPIs**
+
+Tracks stock movement, inventory value, purchases, sales, returns, supplier analysis, warehouse distribution, and stock status.
+
+<p align="center">
+  <a href="https://github.com/shari1-997/Inventory-Stock-Management-Dashboard">
+    <img src="https://raw.githubusercontent.com/shari1-997/Inventory-Stock-Management-Dashboard/main/Inventory_Dashboard.png" width="600" alt="Inventory and Stock Management Dashboard" />
+  </a>
+</p>
+
+**Explore:** [Project repository](https://github.com/shari1-997/Inventory-Stock-Management-Dashboard)
+
+### 5. 💰 Finance & Expense Analysis Dashboard
+
+**Excel · Financial Analysis · Budget vs Actual · KPIs**
+
+Presents budget performance, revenue and expenses, net amounts, budget status, and department and business-segment analysis.
+
+<p align="center">
+  <a href="https://github.com/shari1-997/Finance-Expense-Analysis-Dashboard">
+    <img src="https://raw.githubusercontent.com/shari1-997/Finance-Expense-Analysis-Dashboard/main/Finance_Expense_Analysis_Dashboard_Preview.png" width="600" alt="Finance and Expense Analysis Dashboard" />
+  </a>
+</p>
+
+**Explore:** [Project repository](https://github.com/shari1-997/Finance-Expense-Analysis-Dashboard)
+
+### 6. 👥 Employee Analytics Dashboard
+
+**Excel · Workforce KPIs · Salary Analysis · Hiring Trends**
+
+Explores workforce metrics, salary patterns, department and city breakdowns, hiring trends, and employee reporting.
+
+<p align="center">
+  <a href="https://github.com/shari1-997/employee-analytics-dashboard-excel">
+    <img src="https://raw.githubusercontent.com/shari1-997/employee-analytics-dashboard-excel/main/dashboard-preview.png" width="600" alt="Employee Analytics Dashboard" />
+  </a>
+</p>
+
+**Explore:** [Project repository](https://github.com/shari1-997/employee-analytics-dashboard-excel)
 
 ---
 
-### 🛒 E-commerce Sales & Performance Dashboard
+## 🔄 My Analytics Workflow
 
-**Excel • Data Cleaning • PivotTables • KPIs • Profitability Analysis**
+**Understand the problem → Inspect the data → Clean and transform → Analyze → Build KPIs → Visualize → Communicate insights**
 
-An end-to-end Excel analytics project built from raw e-commerce data. The project covers data cleaning, transformation, KPI development, sales analysis, profitability metrics, and an interactive dashboard.
-
-**Key focus:** Revenue • Net Sales • Cost • Profit • Profit Margin • Product & Customer Analysis
-
-🔗 **[View Project →](https://github.com/shari1-997/Ecommerce-Sales-Performance-Dashboard)**
-
----
-
-### 📦 Inventory & Stock Management Dashboard
-
-**Excel • Data Cleaning • Inventory Analysis • PivotTables • KPIs • Dashboard**
-
-An end-to-end Excel inventory analytics project covering transaction cleaning, stock movement, inventory value, supplier analysis, warehouse distribution, KPI reporting, and business insights.
-
-**Key focus:** Current Stock • Inventory Value • Purchases • Sales • Returns • Supplier Analysis • Stock Status
-
-🔗 **[View Project →](https://github.com/shari1-997/Inventory-Stock-Management-Dashboard)**
-
----
-
-### 💰 Finance & Expense Analysis Dashboard
-
-**Excel • Financial Analysis • Data Cleaning • PivotTables • KPIs • Dashboard**
-
-An end-to-end Excel finance analytics project covering budget performance, revenue and expense analysis, KPI reporting, PivotTables, dashboard visualization, and business insights.
-
-**Key focus:** Budget vs Actual • Revenue • Expenses • Net Amount • Budget Status • Department Analysis • Business Segment Analysis
-
-🔗 **[View Project →](https://github.com/shari1-997/Finance-Expense-Analysis-Dashboard)**
-
----
-
-### 👥 Employee Analytics Dashboard
-
-**Excel • KPIs • Salary Analysis • Hiring Trends • Data Visualization**
-
-An interactive employee analytics dashboard designed to explore workforce performance through KPIs, salary analysis, department and city breakdowns, hiring trends, and visual reporting.
-
-🔗 **[View Project →](https://github.com/shari1-997/employee-analytics-dashboard-excel)**
-
----
-
-## 🔄 My Data Workflow
-
-<div align="center">
-
-### Raw Data → Cleaning → Transformation → Analysis → Visualization → Insights
-
-</div>
-
-I build projects around the complete analytics workflow rather than focusing only on the final dashboard.
-
----
+I aim to make each project understandable by including a dashboard preview, clear documentation, and relevant findings.
 
 ## 🌱 Currently Learning
 
-🐍 **Python for Data Analysis & Automation**
-
-I'm continuously strengthening my Python skills while expanding my knowledge of analytics, visualization, automation, and business intelligence.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-I use GitHub to document my learning, share portfolio projects, and continuously improve my data-analysis skills.
-
-</div>
-
----
+**Power BI DAX — from fundamentals to advanced measures**, including filter context, CALCULATE, time intelligence, and analytical patterns.
 
 ## 🤝 Let's Connect
 
-<p>
-  📧 <strong>Email:</strong> <a href="mailto:shari.designer97@gmail.com">shari.designer97@gmail.com</a><br>
-  💻 <strong>GitHub:</strong> <a href="https://github.com/shari1-997">github.com/shari1-997</a><br>
-  📄 <strong>Resume:</strong> <a href="https://1drv.ms/b/c/af2c5b27416c24d1/IQAEgixaEO4eS50s8oO2GHtpAc9hyV_fX2LSCXsppJBLcLo">View my experience</a>
-</p>
+- **Resume:** [View my resume](https://1drv.ms/b/c/af2c5b27416c24d1/IQBTQsd2p7AWRY_YTX5JybfeAUdSSgoh60JpDTYbwGjiWYg)
+- **Email:** [shari.designer97@gmail.com](mailto:shari.designer97@gmail.com)
+- **GitHub:** [github.com/shari1-997](https://github.com/shari1-997)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my portfolio!
 
-**Turning data into insights, one dataset at a time.**
+**Turning data into insights, one project at a time. 📈**
 
 </div>
